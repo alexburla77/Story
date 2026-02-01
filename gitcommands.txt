@@ -1,0 +1,7 @@
+git add - command who add a file from file to staging area
+git commit -m - add a file from staging area to git repository
+git checkout - revert back all files to start position
+git diff - показывает разницу между файлом и введенным данными в него после редактирования
+git remote add origin <url> - удаленный репозиторий на гитхабе
+git push -u origin main - запушить на гитхаб
+git log - показать все изменения (логи) для гитхаба
